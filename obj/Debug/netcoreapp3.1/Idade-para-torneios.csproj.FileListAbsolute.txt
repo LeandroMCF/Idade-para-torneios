@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Idade-para-torneios\obj\Debug\netcoreapp3.1\Idade-para-torneios.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Idade-para-torneios\obj\Debug\netcoreapp3.1\Idade-para-torneios.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Idade-para-torneios\obj\Debug\netcoreapp3.1\Idade-para-torneios.AssemblyInfo.cs
+C:\Users\dev\Desktop\Idade-para-torneios\obj\Debug\netcoreapp3.1\Idade-para-torneios.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Idade-para-torneios\bin\Debug\netcoreapp3.1\Idade-para-torneios.exe
+C:\Users\dev\Desktop\Idade-para-torneios\bin\Debug\netcoreapp3.1\Idade-para-torneios.deps.json
+C:\Users\dev\Desktop\Idade-para-torneios\bin\Debug\netcoreapp3.1\Idade-para-torneios.runtimeconfig.json
+C:\Users\dev\Desktop\Idade-para-torneios\bin\Debug\netcoreapp3.1\Idade-para-torneios.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Idade-para-torneios\bin\Debug\netcoreapp3.1\Idade-para-torneios.dll
+C:\Users\dev\Desktop\Idade-para-torneios\bin\Debug\netcoreapp3.1\Idade-para-torneios.pdb
+C:\Users\dev\Desktop\Idade-para-torneios\obj\Debug\netcoreapp3.1\Idade-para-torneios.dll
+C:\Users\dev\Desktop\Idade-para-torneios\obj\Debug\netcoreapp3.1\Idade-para-torneios.pdb
+C:\Users\dev\Desktop\Idade-para-torneios\obj\Debug\netcoreapp3.1\Idade-para-torneios.genruntimeconfig.cache
